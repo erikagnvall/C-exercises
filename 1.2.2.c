@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<limits.h>
 
 unsigned int length_ushort();
 
